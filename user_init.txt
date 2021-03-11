@@ -1,0 +1,7 @@
+6
+KP2896 王坤鹏 男 13212344321 123456 wangkunpeng@qq.com 学生 0 0 0
+BJ2895 杨博謇 男 13312312312 123456 yangbojian@qq.com 教师 0 0 0
+YQ2892 杨麒 男 13398766789 123456 yangqi@qq.com 商人 1 0 0
+WT2904 郝文滔 男 18923423412 123456 haowentao@qq.com 教师 1 0 0
+JY2900 张峻源 男 13798765432 123456 zhangjunyuan@qq.com 学生 2 0 0
+BC1234 徐炳昌 男 12345678910 123456 xubingchang@qq.com 商人 2 0 0

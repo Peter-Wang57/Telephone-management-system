@@ -1,0 +1,3 @@
+YD0001 0 张移动 ydydyd@qq.com yd666
+LT0001 1 王联通 ltltlt@qq.com lt666
+DX0001 2 李电信 dxdxdx@qq.com dx666
